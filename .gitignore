@@ -1,0 +1,13 @@
+# Uploaded datasets, temporary files and local secrets
+*.csv
+*.gz
+*.parquet
+*.zip
+*.log
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.databricks/
+.vscode/
+.DS_Store
